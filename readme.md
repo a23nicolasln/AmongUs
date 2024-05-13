@@ -1,27 +1,36 @@
---Impresións ao escribir a App. ¿tiveches nalgún momento a sensación que algunha parte do código 
-a estabas escribindo de forma non apropiada por falta de non aplicar un patrón non visto ou por calquera outra cuestión?.--
+# AMONG US
+![bichito.jpg](./bichito.jpg)
 
-Si, no patron composite sego sin estar moi seguro se o fixen ben
+## Video de mostra
 
---Indica si precisañes empregar iteradores donde e porqué.--
+![video_funcionamiento.mp4](video_funcionamiento.mp4)
 
-Si para as roldas, xa que creei un metodo que realiza unha ronda asi que con un iterador encargome que hasta que gañe alguen estas continuaran
+## Cuestions
 
---Indica si precisañes sobreescribir hashcode/equals donde e porqué.--
+### Impresións ao escribir a App. ¿tiveches nalgún momento a sensación que algunha parte do código a estabas escribindo de forma non apropiada por falta de non aplicar un patrón non visto ou por calquera outra cuestión?:
 
-No
+- Si, no patron composite sego sin estar moi seguro se o fixen ben
 
---Indica donde usaches comparable/comparator e porqué.--
+### Indica si precisañes empregar iteradores donde e porqué.
 
-Non o utilicei 
+- Si para as roldas, xa que creei un metodo que realiza unha ronda asi que con un iterador encargome que hasta que gañe alguen estas continuaran
 
---Unha lista breve das meioras achegadas por ti, e dicir, de funcións e restriccións que non se piden no enunciado.--
+### Indica si precisañes sobreescribir hashcode/equals donde e porqué.
 
-Añadin duas configuracions :
-        1.Podese modificar a cantidade de impostores
-        2.Podese modificar a cantidade de tarefas asignadas a cada xogador
+- No
 
---Observacions--
+### Indica donde usaches comparable/comparator e porqué.
 
-Non esta copletado o temporizador para a expulsion dun sospeitoso
-As tarefas non se mostran en listaxes organizados
+- Non o utilicei 
+
+### Unha lista breve das meioras achegadas por ti, e dicir, de funcións e restriccións que non se piden no enunciado.
+
+- Añadin duas configuracions :
+  
+        - Podese modificar a cantidade de impostores
+        - Podese modificar a cantidade de tarefas asignadas a cada xogador
+
+## Observacions
+
+- Non esta completado o temporizador para a expulsion dun sospeitoso
+- As tarefas non se mostran en listaxes organizados
