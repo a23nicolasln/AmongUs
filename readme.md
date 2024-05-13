@@ -1,7 +1,7 @@
---Impresións ao escribir a App. ¿tiveches nalgún momento a sensación que algunha parte do código --
---a estabas escribindo de forma non apropiada por falta de non aplicar un patrón non visto ou por calquera outra cuestión?.--
+--Impresións ao escribir a App. ¿tiveches nalgún momento a sensación que algunha parte do código 
+a estabas escribindo de forma non apropiada por falta de non aplicar un patrón non visto ou por calquera outra cuestión?.--
 
-Si, no patron composite sego sin estar moi seguro de se o fixen ben
+Si, no patron composite sego sin estar moi seguro se o fixen ben
 
 --Indica si precisañes empregar iteradores donde e porqué.--
 

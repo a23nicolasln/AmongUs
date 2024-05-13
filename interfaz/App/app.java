@@ -31,6 +31,8 @@ public class app {
         while (juego.comprobarGanador() == null) {
             System.out.println(juego.ronda());
             System.out.println(juego.asesinatos());
+            System.out.println();
+            System.out.println("Introduce el nombre del sospechoso o pulsa enter si quieres saltarte este paso:");
             System.out.println(juego.aciertoImpostor(sc.nextLine()));
         }
         System.out.println(juego.comprobarGanador());
